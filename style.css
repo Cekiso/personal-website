@@ -1,0 +1,193 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/ HTML5 display-role reset for older browsers / article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.view {
+  height: 100%;
+  margin-top: -98px 180px;
+  max-width: 100%;
+
+}
+
+#intro {
+  background-image: url(https://images.wallpaperscraft.com/image/winter_snow_apples_cold_new_year_82116_1280x720.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  filter: brightness(100%);
+}
+
+.header-container {
+  height: 100vh;
+}
+
+h1 {
+  color: blue;
+  margin-top: -90px;
+}
+
+.Welcome {
+  color: ;
+  font-size: 50px;
+
+}
+.para{
+  font-size: 30px;
+  margin-top: -90px;
+}
+.mask {
+  padding-top: 300px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 20px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+  text-decoration: none;
+  color: yellow;
+}
+
+.fa-facebook {
+  background: rgba(0, 0, 0, 0.00001);
+  color: white;
+  font-size: 60px;
+  text-decoration: none;
+}
+
+.fa-twitter {
+  background: rgba(0, 0, 0, 0.00001);
+  color: white;
+  font-size: 60px;
+  text-decoration: none;
+}
+
+.fa-whatsapp {
+  background: rgba(0, 0, 0, 0.00001);
+  color: white;
+  font-size: 60px;
+  text-decoration: none;
+}
+
+.fa-google {
+  background: rgba(0, 0, 0, 0.00001);
+  color: white;
+  font-size: 60px;
+  text-decoration: none;
+}
+
+.para {
+  color: BLACK;
+  font-size: px;
+  padding-top: 150px;
+}
+.me{
+ margin-top: px;
+ font-family: 'Ramabhadra', sans-serif;
+ font-size: 30px;
+ text-align: center;
+ padding-top: 100px;
+}
+
+input {
+  border: o;
+  border-bottom: 2px solid black;
+  display: block;
+  decoration: none;
+}
+
+form {
+  border: 2px solid black;
+}
+
+.input-field {
+  border: none;
+  border-bottom: 1px solid black;
+}
+
+#services {
+   background-color: #FAFFFD;
+  font-size: 20px;
+
+}
+#contact{
+  margin-top: 150px;
+}
+  .contact{
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+    color:#C455A8;
+  }
+#back {}
+
+#projects {
+  background-image: url();
+  color: black;
+  margin-top: 150px;
+  height: 1000px;
+}
+.heading{
+text-align: center;
+font-size: 60px;
+margin-top: -159px;
+font-family: 'Bree Serif', serif;
+color:#C455A8;
+
+}
+#footer {
+  background-color: #C3BAAA;
+  height: 200px;
+
+}
